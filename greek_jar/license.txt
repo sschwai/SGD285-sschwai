@@ -1,0 +1,11 @@
+Model Information:
+* title:	GREEK JAR
+* source:	https://sketchfab.com/3d-models/greek-jar-f8d95e9ae0324e69b257a5e50adeca0e
+* author:	Davide Specchi (https://sketchfab.com/Davide.Specchi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GREEK JAR" (https://sketchfab.com/3d-models/greek-jar-f8d95e9ae0324e69b257a5e50adeca0e) by Davide Specchi (https://sketchfab.com/Davide.Specchi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
