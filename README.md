@@ -1,6 +1,6 @@
-This repository contains different files that may contain link to free 3d models and free mp3 audios.
+This repository contains different files that may contain link to free 3d models.
 
-I do not own, I have not created, and I have not modified ANY of the 3d models and mp3 audios.
+I do not own, I have not created, and I have not modified ANY of the 3d models.
 
 The Oreo Pacman was created by Lassi Kaukonen : https://sketchfab.com/3d-models/oreo-pacman-7cc397480dbe4b52b85a465ffecf3feb with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ .
 
